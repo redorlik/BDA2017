@@ -1,0 +1,13 @@
+syntax="proto2";
+
+message GPS{
+    required float latitude=1;
+    required float longitude=2;
+    required uint32 satellites=3;
+    required float speed=4;
+    required string date=5;
+
+}
+message Trip{
+    repeated GPS locations=1;
+}
