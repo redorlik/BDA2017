@@ -92,7 +92,6 @@ pluggy==0.7.1
 prometheus-client==0.3.1
 prompt-toolkit==1.0.15
 protobuf==3.6.1
-ptyprocess==0.5.2
 py==1.6.0
 pyasn1==0.4.4
 pyasn1-modules==0.2.2
@@ -114,7 +113,7 @@ PyYAML==3.13
 pyzmq==17.0.0
 qtconsole==4.3.1
 queuelib==1.5.0
-requests==2.19.1
+requests==2.20.1
 scikit-learn==0.20.0
 scipy==1.1.0
 Scrapy==1.5.1
